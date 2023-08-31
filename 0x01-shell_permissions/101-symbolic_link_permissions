@@ -1,2 +1,2 @@
 #!/bim/bash
-chown -h vincent:staff _hello
+chown -h vincent:staff _hello'
